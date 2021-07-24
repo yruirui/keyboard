@@ -1,0 +1,12 @@
+.keyboard {
+  background-color: #2c2121;
+}
+.page {
+  color: #fffafa;
+}
+.keyboard .row > span {
+  height: 40px;
+  background-color: ;
+}
+
+/*# sourceMappingURL=index.HASH_REF_f0918a547ace1733ebc251b0de60a1d7.css.map */

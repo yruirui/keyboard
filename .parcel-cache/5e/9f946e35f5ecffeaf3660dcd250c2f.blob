@@ -1,0 +1,5 @@
+const $=s=>document.querySelector(s)
+const $$=s=>document.querySelectorAll(s)
+$('input').onclick=function(e){
+    if(this.classList.contain)
+}

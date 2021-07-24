@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <title>keyboard</title>
+    <link rel="stylesheet" href="76d74868bf480873460adb8aad1df89c">
+    <link rel="stylesheet" href="84d72d9f324451a758eef70f77d55092">
+</head>
+<body>
+    <div class="keyboard">
+        <div class="page page-lowercase">
+            <div class="row">
+                <span class="col-2 active" data-type="char">q</span>
+                <span class="col-2" data-type="char">w</span>
+                <span class="col-2" data-type="char">e</span>
+                <span class="col-2" data-type="char">r</span>
+                <span class="col-2" data-type="char">t</span>
+                <span class="col-2" data-type="char">y</span>
+                <span class="col-2" data-type="char">u</span>
+                <span class="col-2" data-type="char">i</span>
+                <span class="col-2" data-type="char">o</span>
+                <span class="col-2" data-type="char">p</span>
+            </div>
+            <div class="row">
+                <span class="col-2 offset-1">a</span>
+                <span class="col-2" data-type="char">s</span>
+                <span class="col-2" data-type="char">d</span>
+                <span class="col-2" data-type="char">f</span>
+                <span class="col-2" data-type="char">g</span>
+                <span class="col-2" data-type="char">h</span>
+                <span class="col-2" data-type="char">j</span>
+                <span class="col-2" data-type="char">k</span>
+                <span class="col-2" data-type="char">l</span>
+            </div>
+            <div class="row">
+                <span class="col-3" data-type="uppercase"><i class="iconfont icon-caps-lock"></i></span>
+                <span class="col-2" data-type="char">z</span>
+                <span class="col-2" data-type="char">x</span>
+                <span class="col-2" data-type="char">c</span>
+                <span class="col-2" data-type="char">v</span>
+                <span class="col-2" data-type="char">b</span>
+                <span class="col-2" data-type="char">n</span>
+                <span class="col-2" data-type="char">m</span>
+                <span class="col-3" data-type="backspace"><i class="iconfont icon-backspace"></i></span>
+            </div>
+            <div class="row">
+                <span class="col-4" data-type="number">123</span>
+                <span class="col-12" data-type="space">space</span>
+                <span class="col-4" data-type="return">return</span>
+            </div>
+        </div>
+        
+        <div class="page page-uppercase">
+            <div class="row">
+                <span class="col-2" data-type="char">Q</span>
+                <span class="col-2" data-type="char">W</span>
+                <span class="col-2" data-type="char">E</span>
+                <span class="col-2" data-type="char">R</span>
+                <span class="col-2" data-type="char">T</span>
+                <span class="col-2" data-type="char">Y</span>
+                <span class="col-2" data-type="char">U</span>
+                <span class="col-2" data-type="char">I</span>
+                <span class="col-2" data-type="char">O</span>
+                <span class="col-2" data-type="char">P</span>
+            </div>
+            <div class="row">
+                <span class="col-2 offset-1" data-type="char">A</span>
+                <span class="col-2" data-type="char">S</span>
+                <span class="col-2" data-type="char">D</span>
+                <span class="col-2" data-type="char">F</span>
+                <span class="col-2" data-type="char">G</span>
+                <span class="col-2" data-type="char">H</span>
+                <span class="col-2" data-type="char">J</span>
+                <span class="col-2" data-type="char">K</span>
+                <span class="col-2" data-type="char">L</span>
+            </div>
+            <div class="row">
+                <span class="col-3" data-type="uppercase"><i class="iconfont icon-caps-lock"></i></span>
+                <span class="col-2" data-type="char">Z</span>
+                <span class="col-2" data-type="char">X</span>
+                <span class="col-2" data-type="char">C</span>
+                <span class="col-2" data-type="char">V</span>
+                <span class="col-2" data-type="char">B</span>
+                <span class="col-2" data-type="char">N</span>
+                <span class="col-2" data-type="char">M</span>
+                <span class="col-3" data-type="backspace"><i class="iconfont icon-backspace"></i></span>
+            </div>
+            <div class="row">
+                <span class="col-4" data-type="number">123</span>
+                <span class="col-12" data-type="space">space</span>
+                <span class="col-4" data-type="return">return</span>
+            </div>
+        </div>
+        <div class="page page-number">
+            <div class="row">
+                <span class="col-2" data-type="char">1</span>
+                <span class="col-2" data-type="char">2</span>
+                <span class="col-2" data-type="char">3</span>
+                <span class="col-2" data-type="char">4</span>
+                <span class="col-2" data-type="char">5</span>
+                <span class="col-2" data-type="char">6</span>
+                <span class="col-2" data-type="char">7</span>
+                <span class="col-2" data-type="char">8</span>
+                <span class="col-2" data-type="char">9</span>
+                <span class="col-2" data-type="char">0</span>
+            </div>
+            <div class="row">
+                <span class="col-2 offset-1">a</span>
+                <span class="col-2" data-type="char">-</span>
+                <span class="col-2" data-type="char">/</span>
+                <span class="col-2" data-type="char">:</span>
+                <span class="col-2" data-type="char">;</span>
+                <span class="col-2" data-type="char">h</span>
+                <span class="col-2" data-type="char">j</span>
+                <span class="col-2" data-type="char">k</span>
+                <span class="col-2" data-type="char">l</span>
+            </div>
+            <div class="row">
+                <span class="col-3" data-type="uppercase"><i class="iconfont icon-caps-lock"></i></span>
+                <span class="col-2" data-type="char">z</span>
+                <span class="col-2" data-type="char">x</span>
+                <span class="col-2" data-type="char">c</span>
+                <span class="col-2" data-type="char">v</span>
+                <span class="col-2" data-type="char">b</span>
+                <span class="col-2" data-type="char">n</span>
+                <span class="col-2" data-type="char">m</span>
+                <span class="col-3" data-type="backspace"><i class="iconfont icon-backspace"></i></span>
+            </div>
+            <div class="row">
+                <span class="col-4" data-type="number">123</span>
+                <span class="col-12" data-type="space">space</span>
+                <span class="col-4" data-type="return">return</span>
+            </div>
+        </div>
+        <div class="page page-symbol"></div>
+    </div>
+    <script src="67e2e1d839de85b19f58d77aecf7b303"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+const $=s=>document.querySelector(s)
+const $$=s=>document.querySelectorAll(s)
+$('input').onclick = function(){
+    if(!this.classList.contains('focus')){
+        this.classList.add('focus')
+        $('.keyboard').classList.add('show')
+    }
+}

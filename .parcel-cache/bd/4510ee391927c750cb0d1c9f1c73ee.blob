@@ -1,0 +1,13 @@
+.keyboard {
+  background-color: #2c2121;
+}
+.page {
+  color: #fffafa;
+}
+.row {
+  display: block;
+}
+.keyboard .row > span {
+  height: 40px;
+  background-color: #4b4747;
+}

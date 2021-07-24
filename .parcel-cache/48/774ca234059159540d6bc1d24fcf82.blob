@@ -1,0 +1,6 @@
+.keyboard {
+  background-color: #2c2121;
+}
+.page {
+  color: #000;
+}

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <title>keyboard</title>
+    <link rel="stylesheet" href="76d74868bf480873460adb8aad1df89c" <="" head="">
+</head><body>
+    <div class="keyboard">
+        <div class="page page-lowercase">
+            <div class="row">
+                <span class="col-2 active">q</span>
+                <span class="col-2">w</span>
+                <span class="col-2">e</span>
+                <span class="col-2">r</span>
+                <span class="col-2">t</span>
+                <span class="col-2">y</span>
+                <span class="col-2">u</span>
+                <span class="col-2">i</span>
+                <span class="col-2">o</span>
+                <span class="col-2">p</span>
+            </div>
+            <div class="row">
+                <span class="col-2 offset-1">a</span>
+                <span class="col-2">s</span>
+                <span class="col-2">d</span>
+                <span class="col-2">f</span>
+                <span class="col-2">g</span>
+                <span class="col-2">h</span>
+                <span class="col-2">j</span>
+                <span class="col-2">k</span>
+                <span class="col-2">l</span>
+            </div>
+            <div class="row">
+                <span class="col-3">caps</span>
+                <span class="col-2">z</span>
+                <span class="col-2">x</span>
+                <span class="col-2">c</span>
+                <span class="col-2">v</span>
+                <span class="col-2">b</span>
+                <span class="col-2">n</span>
+                <span class="col-2">m</span>
+                <span class="col-3">detele</span>
+            </div>
+            <div class="row">
+                <span class="col-4">123</span>
+                <span class="col-12">space</span>
+                <span class="col-4">return</span>
+            </div>
+        </div>
+        
+        <div class="page page-uppercase">
+            <div class="row">
+                <span class="col-2">Q</span>
+                <span class="col-2">W</span>
+                <span class="col-2">E</span>
+                <span class="col-2">R</span>
+                <span class="col-2">T</span>
+                <span class="col-2">Y</span>
+                <span class="col-2">U</span>
+                <span class="col-2">I</span>
+                <span class="col-2">O</span>
+                <span class="col-2">P</span>
+            </div>
+            <div class="row">
+                <span class="col-2 offset-1">A</span>
+                <span class="col-2">S</span>
+                <span class="col-2">D</span>
+                <span class="col-2">F</span>
+                <span class="col-2">G</span>
+                <span class="col-2">H</span>
+                <span class="col-2">J</span>
+                <span class="col-2">K</span>
+                <span class="col-2">L</span>
+            </div>
+            <div class="row">
+                <span class="col-3">caps</span>
+                <span class="col-2">Z</span>
+                <span class="col-2">X</span>
+                <span class="col-2">C</span>
+                <span class="col-2">V</span>
+                <span class="col-2">B</span>
+                <span class="col-2">N</span>
+                <span class="col-2">M</span>
+                <span class="col-3">detele</span>
+            </div>
+            <div class="row">
+                <span class="col-4">123</span>
+                <span class="col-12">space</span>
+                <span class="col-4">return</span>
+            </div>
+        </div>
+        <div class="page page-number">
+            <div class="row">
+                <span class="col-2">1</span>
+                <span class="col-2">2</span>
+                <span class="col-2">3</span>
+                <span class="col-2">4</span>
+                <span class="col-2">5</span>
+                <span class="col-2">6</span>
+                <span class="col-2">7</span>
+                <span class="col-2">8</span>
+                <span class="col-2">9</span>
+                <span class="col-2">0</span>
+            </div>
+            <div class="row">
+                <span class="col-2 offset-1">a</span>
+                <span class="col-2">s</span>
+                <span class="col-2">d</span>
+                <span class="col-2">f</span>
+                <span class="col-2">g</span>
+                <span class="col-2">h</span>
+                <span class="col-2">j</span>
+                <span class="col-2">k</span>
+                <span class="col-2">l</span>
+            </div>
+            <div class="row">
+                <span class="col-3">caps</span>
+                <span class="col-2">z</span>
+                <span class="col-2">x</span>
+                <span class="col-2">c</span>
+                <span class="col-2">v</span>
+                <span class="col-2">b</span>
+                <span class="col-2">n</span>
+                <span class="col-2">m</span>
+                <span class="col-3">detele</span>
+            </div>
+            <div class="row">
+                <span class="col-4">123</span>
+                <span class="col-12">space</span>
+                <span class="col-4">return</span>
+            </div>
+        </div>
+        <div class="page page-symbol"></div>
+    </div>
+    <script src="67e2e1d839de85b19f58d77aecf7b303"></script>
+</body>
+</html>

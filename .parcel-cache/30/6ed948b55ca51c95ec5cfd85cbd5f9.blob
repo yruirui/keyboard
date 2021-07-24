@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <title>keyboard</title>
+</head>
+<body>
+    <div class="keyboard">
+        <div class="page page-lowercase">
+            <div class="row">
+                <span class="col-2">q</span>
+                <span class="col-2">w</span>
+                <span class="col-2">e</span>
+                <span class="col-2">r</span>
+                <span class="col-2">t</span>
+                <span class="col-2">y</span>
+                <span class="col-2">u</span>
+                <span class="col-2">i</span>
+                <span class="col-2">o</span>
+                <span class="col-2">p</span>
+            </div>
+            <div class="row">
+                <span class="col-2 offset-1">a</span>
+                <span class="col-2">s</span>
+                <span class="col-2">d</span>
+                <span class="col-2">f</span>
+                <span class="col-2">g</span>
+                <span class="col-2">h</span>
+                <span class="col-2">j</span>
+                <span class="col-2">k</span>
+                <span class="col-2">l</span>
+            </div>
+        </div>
+        <div class="page page-uppercase"></div>
+        <div class="page page-number"></div>
+        <div class="page page-symbol"></div>
+    </div>
+</body>
+</html><script src="/index.HASH_REF_42412dc50fd44bf0205308ab01a1c8c0.js"></script>
