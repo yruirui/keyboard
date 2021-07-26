@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <title>keyboard</title>
+    <link rel="stylesheet" href="/index.HASH_REF_f0918a547ace1733ebc251b0de60a1d7.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_2696115_uz4z4t4bb0f.css">
+</head>
+<body>
+    <div class="container">
+        <p>请输入账号：<span class="input"></span></p>
+        <p>请输入密码：<span class="input"></span></p>
+    </div>    
+    <script src="/index.HASH_REF_e9312995559a911a6f9b63a6bd78eeec.js"></script>
+</body>
+</html>
